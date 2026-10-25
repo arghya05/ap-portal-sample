@@ -1,0 +1,8 @@
+{
+  "name": "ap_portal",
+  "version": "2.3.0",
+  "private": true,
+  "scripts": {
+    "ci": "node ci.mjs"
+  }
+}
